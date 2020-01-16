@@ -2,4 +2,5 @@
 2nd line on the master central
 3rd line on the local master
 4th line on the branch central
-5th Line on the branch 
+5th Line on the branch.
+
