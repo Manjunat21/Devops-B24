@@ -1,2 +1,3 @@
 1st line added on the local master
 1st line added to branch B1
+3rd line added to branch B6
